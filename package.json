@@ -1,0 +1,28 @@
+{
+  "name": "waoh",
+  "version": "1.0.0",
+  "description": "Node wep framework",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirjiangbo/waoh.git"
+  },
+  "keywords": [
+    "node",
+    "web",
+    "app",
+    "framework"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirjiangbo/waoh/issues"
+  },
+  "homepage": "https://github.com/sirjiangbo/waoh#readme",
+  "dependencies": {
+    "path-to-regexp": "^6.2.0"
+  }
+}
